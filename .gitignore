@@ -1,0 +1,3 @@
+# Ignore the full archive, only push split parts
+*.tar.gz
+!*.tar.gz.part-*
